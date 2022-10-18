@@ -55,9 +55,7 @@ const MyWallet = () => {
           </button>
         </div>
       )}
-      <Connect janan={()=> {
-        alert('hillo');
-      }} />
+      <Connect  />
     </section>
   );
 };
