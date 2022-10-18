@@ -1,0 +1,19 @@
+.button {
+    background-color: #ffc018;
+    color: black;
+    width: 100%;
+    font-weight: 500;
+    border-radius: 8px;
+    border: none;
+
+
+}
+
+.forAll {
+    background-color: black;
+    color: #ffc018;
+}
+
+.only {
+    border: 2px solid #ffc018;
+}

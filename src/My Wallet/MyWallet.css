@@ -1,0 +1,47 @@
+.mynav {
+    width: 100%;
+    background-color: #ffc018;
+    color: black;
+}
+.mynav h5 {
+    font-weight: 800;
+}
+.Mycontain {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.forAccount {
+    /* float: right; */
+    right: 1rem;
+    /* opacity: 0.4; */
+
+    /* margin-left: 30rem; */
+    background-color: rgb(46, 46, 46);
+    
+}
+.Mycontain button {
+    background-color: #ffc018;
+    color: black;
+    font-weight: 500;
+    border: none;
+    border-radius: 20px;
+    padding-block: 5px;
+
+}
+.Mycontain button:hover {
+    background-color: black;
+    color: #ffc018;
+
+}
+.forAll {
+    background-color: black;
+    color: #ffc018;
+}
+.buttonmain {
+    background-color: #ffc018;
+    color: black;
+    border: none;
+    /* width: 50%; */
+    border-radius: 8px;
+}
